@@ -1,0 +1,13 @@
+{
+  "itemGroup.chinosknuckles": "Chino's Knuckles",
+
+  "item.chinosknuckles.iron_knuckles": "Iron Knuckles",
+  "item.chinosknuckles.golden_knuckles": "Golden Knuckles",
+  "item.chinosknuckles.diamond_knuckles": "Diamond Knuckles",
+  "item.chinosknuckles.leather_slides": "Leather Slides",
+
+  "attribute.name.generic.one_handed_attack_damage": "Attack Damage When in One Hand",
+  "attribute.name.generic.armor_attack_damage": "Attack Damage Against Armored Targets",
+
+  "tag.item.chinosknuckles.knuckles": "Knuckles"
+}

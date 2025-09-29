@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "chinosknuckles:item/leather_slides"
+  }
+}
